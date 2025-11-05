@@ -153,6 +153,6 @@ Users can upload an image containing e-waste, and the model will automatically c
 
 ---
 
-**Developed by Team Kuku Robot 🤖**  
+**Developed by Team Kuka Robot 🤖**  
 *An intelligent ML-based solution for sustainable e-waste management.*
 
